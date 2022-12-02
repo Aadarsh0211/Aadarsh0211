@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aadarsh
 - 👀 I’m interested in domain of data analytics
-- 🌱 I’m currently learning about machine learning and AI
-- 💞️ I’m looking to collaborate in the world of data science
-- 📫 You can reach me through LinkedIn (linkedin.com/in/aadarsh-jha-289b2b245)
+- 🌱 I’m currently learning about Machine Learning and AI
+- 💞️ I’m looking to collaborate in the world of Data Science
+- 📫 You can reach me through LinkedIn (https://www.linkedin.com/in/aadarsh-jha-289b2b245/)
 
 
 <!---
